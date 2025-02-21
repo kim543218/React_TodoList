@@ -1,0 +1,34 @@
+{
+  "todolist": [
+    {
+      "id": "1",
+      "title": "Research Marketing Strategies",
+      "description": "Investigate and compile effective marketing strategies.",
+      "date": "2025-03-01"
+    },
+    {
+      "id": "2",
+      "title": "Client Presentation",
+      "description": "Present project updates and gather client feedback.",
+      "date": "2025-03-02"
+    },
+    {
+      "id": "3",
+      "title": "Update Documentation",
+      "description": "Revise and update project documentation.",
+      "date": "2025-03-03"
+    },
+    {
+      "id": "4",
+      "title": "QA Testing",
+      "description": "Conduct quality assurance tests on the latest build.",
+      "date": "2025-03-04"
+    },
+    {
+      "id": "5",
+      "title": "Budget Review",
+      "description": "Review project budget and financial plans.",
+      "date": "2025-03-05"
+    }
+  ]
+}
